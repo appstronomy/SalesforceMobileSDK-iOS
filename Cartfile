@@ -1,6 +1,4 @@
-# For CocoaLumberjack 2.3.0 to be compatible with Swift 2.3, Carthage must be run with toolchain option.
-# e.g. carthage update --platform ios --toolchain com.apple.dt.toolchain.Swift_2_3
 
-github "CocoaLumberjack/CocoaLumberjack" ~> 2.3.0
+github "CocoaLumberjack/CocoaLumberjack" ~> 3.0.0
 
 
